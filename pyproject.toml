@@ -1,0 +1,17 @@
+[project]
+name = "vision"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "deepface>=0.0.100",
+    "mediapipe>=1.0.0",
+    "numpy>=2.5.1",
+    "opencv-contrib-python>=5.0.0.93",
+    "pillow>=12.3.0",
+    "scikit-learn>=1.9.0",
+    "seaborn>=0.13.2",
+    "tensorflow>=2.21.0",
+    "tf-keras>=2.21.0",
+]
